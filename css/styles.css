@@ -68,9 +68,9 @@ a {
 .navbar_items {
   display: inline-block;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1rem;
   list-style-type: none;
-  padding: 0.5rem 4rem;
+  padding: 0.5rem 2rem;
   margin-top: 0;
   font-style: italic;
 }
