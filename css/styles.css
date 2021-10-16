@@ -68,9 +68,9 @@ a {
 .navbar_items {
   display: inline-block;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   list-style-type: none;
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 2.7rem;
   margin-top: 0;
   font-style: italic;
 }
@@ -249,7 +249,7 @@ min-height: 700px;
   float: right;
   margin-right: 10%;
 }
-@media only screen and (max-width: 40em) {
+@media only screen and (max-width: 50em) {
   .container {
     display: grid;
     grid-template-columns: 1fr ;
