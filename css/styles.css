@@ -249,7 +249,7 @@ min-height: 700px;
   float: right;
   margin-right: 10%;
 }
-@media only screen and (max-width: 35em) {
+@media only screen and (max-width: 40em) {
   .container {
     display: grid;
     grid-template-columns: 1fr ;
